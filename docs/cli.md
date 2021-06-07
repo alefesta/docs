@@ -127,7 +127,7 @@ Use "fuseml workflow [command] --help" for more information about a command.
 The YAML file is:
 
 ```yml
-name: < INSERT YOUR WORKFLOW NAME>
+name: <INSERT YOUR WORKFLOW NAME>
 description: |
   End-to-end pipeline template that takes in an MLFlow compatible codeset,
   runs the MLFlow project to train a model, then creates a KFServing prediction
